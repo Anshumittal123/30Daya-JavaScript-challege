@@ -6,3 +6,6 @@ This is a funtastic challenges to practices Variable like var, const and let and
 
 # Day 2 : Operator
 This is a day 2 of challenges to practices Operators like Arithmatic, Assignment, Logical and ternary operators. 
+
+# Day 3 : Conditional Statements
+this is a day 2 of challenges to practices Conditional Statements like if-else, nested if-else, switch case, ternary, combining conditional Statements. 
