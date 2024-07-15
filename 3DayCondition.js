@@ -1,4 +1,4 @@
-// ======================== DAY 3 CONDITION ================================================
+// ======================================================= DAY 3 CONDITION ================================================
 
 // Activity 1: IF-Else Statements
 // Task 1: Write a program to check if a number is positive, negative, or zero, and log the result to the console.
