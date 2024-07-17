@@ -8,7 +8,10 @@ This is a funtastic challenges to practices Variable like var, const and let and
 This is a day 2 of challenges to practices Operators like Arithmatic, Assignment, Logical and ternary operators. 
 
 # Day 3 : Conditional Statements
-this is a day 3 of challenges to practices Conditional Statements like if-else, nested if-else, switch case, ternary, combining conditional Statements. 
+This is a day 3 of challenges to practices Conditional Statements like if-else, nested if-else, switch case, ternary, combining conditional Statements. 
 
 # Day 4 : Loops
-this is a day 4 of challenge to practices Loop like for, while, do..while, N=nested loop, and loop control statements (continue, break)
+This is a day 4 of challenge to practices Loop like for, while, do..while, N=nested loop, and loop control statements (continue, break)
+
+# Day 5 : Functions
+This is a day 5 of challenge to practices Functions like function declarations, function expressions, arrow functions, function parameters and default values, higher-order functions. 
