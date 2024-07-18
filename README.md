@@ -15,3 +15,6 @@ This is a day 4 of challenge to practices Loop like for, while, do..while, N=nes
 
 # Day 5 : Functions
 This is a day 5 of challenge to practices Functions like function declarations, function expressions, arrow functions, function parameters and default values, higher-order functions. 
+
+# Day 6: Arrays
+This is a day 6 of challenge to practices Arrays like array creation and access, array method (basic) {push, pop, shift, unshift}, array method (intermediate) {map, filter, reduce}, array iteration {for, forEach}, Multi-dimension array creation and access. 
