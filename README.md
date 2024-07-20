@@ -21,3 +21,6 @@ This is a day 6 of challenge to practices Arrays like array creation and access,
 
 # Day 7: Objects
 This is a day 7 of challenge to practices Objects like object creation and Access, Object methods, nested objects, this keyword,  object iteration.
+
+# Day 8: ES6 + Features
+This is a day 8 of challenges to practices ES6 + Features like Template Literals, Destructuring, Spread and Rest Opeartor, Default parameters, Enhanced Object Literals. 
