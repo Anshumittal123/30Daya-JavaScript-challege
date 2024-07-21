@@ -24,3 +24,6 @@ This is a day 7 of challenge to practices Objects like object creation and Acces
 
 # Day 8: ES6 + Features
 This is a day 8 of challenges to practices ES6 + Features like Template Literals, Destructuring, Spread and Rest Opeartor, Default parameters, Enhanced Object Literals. 
+
+# Day 9: DOM Manipulation
+This is a day 9 of challenges to practices DOM Manipulation like selection and manipulating elements, creating and appending an elements, reoving elements, modifying attributes and classes, and event listener.
