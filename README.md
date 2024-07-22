@@ -27,3 +27,6 @@ This is a day 8 of challenges to practices ES6 + Features like Template Literals
 
 # Day 9: DOM Manipulation
 This is a day 9 of challenges to practices DOM Manipulation like selection and manipulating elements, creating and appending an elements, reoving elements, modifying attributes and classes, and event listener.
+
+# Day 10 Event Handling
+This is a day 10 of challenges to practices Event Handling like basic event handling, mouse event, keyword event, form event, event delegation. 
