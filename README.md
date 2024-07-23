@@ -30,3 +30,6 @@ This is a day 9 of challenges to practices DOM Manipulation like selection and m
 
 # Day 10 Event Handling
 This is a day 10 of challenges to practices Event Handling like basic event handling, mouse event, keyword event, form event, event delegation. 
+
+# Day 11 Promise and Async / Await
+This is a day 11 of challenges to practices Promise and async / await like understanding promise, chaining promise, using async/await, fetching data from api, concurrent promise. 
