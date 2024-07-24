@@ -33,3 +33,6 @@ This is a day 10 of challenges to practices Event Handling like basic event hand
 
 # Day 11 Promise and Async / Await
 This is a day 11 of challenges to practices Promise and async / await like understanding promise, chaining promise, using async/await, fetching data from api, concurrent promise. 
+
+# Day 12 Error Handling
+This is a day 12 of challenges to practices Error Handing like basic error handling, finally block, custom error objects, error handling in promise, graceful error handling in fetch. 
