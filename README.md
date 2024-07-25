@@ -19,7 +19,7 @@ This is a day 5 of challenge to practices Functions like function declarations, 
 # Day 6: Arrays
 This is a day 6 of challenge to practices Arrays like array creation and access, array method (basic) {push, pop, shift, unshift}, array method (intermediate) {map, filter, reduce}, array iteration {for, forEach}, Multi-dimension array creation and access. 
 
-# Day 7: Objects
+# Day 7: Objectnd
 This is a day 7 of challenge to practices Objects like object creation and Access, Object methods, nested objects, this keyword,  object iteration.
 
 # Day 8: ES6 + Features
@@ -36,3 +36,6 @@ This is a day 11 of challenges to practices Promise and async / await like under
 
 # Day 12 Error Handling
 This is a day 12 of challenges to practices Error Handing like basic error handling, finally block, custom error objects, error handling in promise, graceful error handling in fetch. 
+
+# Day 13 Modules
+This is a day 13 of challenges to practices Modules like create and exporting modules, name and default export, importing entire module, using third-party modules, module bundling.
