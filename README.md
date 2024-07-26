@@ -39,3 +39,6 @@ This is a day 12 of challenges to practices Error Handing like basic error handl
 
 # Day 13 Modules
 This is a day 13 of challenges to practices Modules like create and exporting modules, name and default export, importing entire module, using third-party modules, module bundling.
+
+# Day 14 Classes
+This is a day 14 of challenges to practices classes like class definition, class inheritance, static methods and properties, getter and setter, private field.
