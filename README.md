@@ -45,3 +45,6 @@ This is a day 14 of challenges to practices classes like class definition, class
 
 # Day 15 Closures
 This is a day 15 challenges to practices Closures like understanding closures, practical closures, closures loops, module closures, memorization.
+
+# Day 16 Recursion
+This is a day 16 challenges to practices Recursion link basic rescursion, recursion with array, string manipulation with recursion, recursion search, tree traversal. 
