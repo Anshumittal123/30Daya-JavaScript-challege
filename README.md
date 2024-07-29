@@ -48,3 +48,6 @@ This is a day 15 challenges to practices Closures like understanding closures, p
 
 # Day 16 Recursion
 This is a day 16 challenges to practices Recursion link basic rescursion, recursion with array, string manipulation with recursion, recursion search, tree traversal. 
+
+# Day 17 Data Structures
+This is a dya 17 challenges to practices Data Structures like Linked list, Stack, Queue, Binay tree, Graph.
