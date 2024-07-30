@@ -50,4 +50,7 @@ This is a day 15 challenges to practices Closures like understanding closures, p
 This is a day 16 challenges to practices Recursion link basic rescursion, recursion with array, string manipulation with recursion, recursion search, tree traversal. 
 
 # Day 17 Data Structures
-This is a dya 17 challenges to practices Data Structures like Linked list, Stack, Queue, Binay tree, Graph.
+This is a day 17 challenges to practices Data Structures like Linked list, Stack, Queue, Binay tree, Graph.
+
+# Day 18 Algorithm
+This is a day 18 challenges tp practices Algorithms like Sorting, Searching, String, Array, Dynamic Programming.
