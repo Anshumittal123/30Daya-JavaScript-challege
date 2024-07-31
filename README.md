@@ -53,4 +53,7 @@ This is a day 16 challenges to practices Recursion link basic rescursion, recurs
 This is a day 17 challenges to practices Data Structures like Linked list, Stack, Queue, Binay tree, Graph.
 
 # Day 18 Algorithm
-This is a day 18 challenges tp practices Algorithms like Sorting, Searching, String, Array, Dynamic Programming.
+This is a day 18 challenges to practices Algorithms like Sorting, Searching, String, Array, Dynamic Programming.
+
+# Day 19 Regular Expressions 
+This is a day 19 challenges to practices Regular Expressions like Basic regular expression, character classes and quantifier, grouping and capturing, assertions and boundaries, practical applications.
