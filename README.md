@@ -57,3 +57,6 @@ This is a day 18 challenges to practices Algorithms like Sorting, Searching, Str
 
 # Day 19 Regular Expressions 
 This is a day 19 challenges to practices Regular Expressions like Basic regular expression, character classes and quantifier, grouping and capturing, assertions and boundaries, practical applications.
+
+# Day 20 LoaclStorage and SessionStorage
+This is a day 20 challenges to practices LocalStorage and SessionStorage like Understanding LocalStorage, using LocalStorage, understanding sessionStorage, using sessionStorage, comparing LocalStorage and sessionStorage. 
