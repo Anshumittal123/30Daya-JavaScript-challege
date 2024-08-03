@@ -60,5 +60,10 @@ This is a day 19 challenges to practices Regular Expressions like Basic regular 
 
 # Day 20 LoaclStorage and SessionStorage
 This is a day 20 challenges to practices LocalStorage and SessionStorage like Understanding LocalStorage, using LocalStorage, understanding sessionStorage, using sessionStorage, comparing LocalStorage and sessionStorage. 
+
  # Day 21 LeetCode Easy
  This is a day 21 challenges to practices LeetCode Easy like two sum, reverse integer, palindrome number, merge two sorted list, valid parentheses. 
+
+
+# Day 22 LeetCode Medium
+This is a day 22 challenges to practices LeetCode Medium like Add two numbers, Longest string without repeating characters, container with most water, 3 sum, group anagrams.   
