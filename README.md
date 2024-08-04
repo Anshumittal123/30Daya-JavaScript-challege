@@ -67,3 +67,6 @@ This is a day 20 challenges to practices LocalStorage and SessionStorage like Un
 
 # Day 22 LeetCode Medium
 This is a day 22 challenges to practices LeetCode Medium like Add two numbers, Longest string without repeating characters, container with most water, 3 sum, group anagrams.   
+
+# Day 23 LeetCode Hard
+This is a day 23 challenges to practices LeetCode Hard like Median of Two Sorted Arrays, Merge k Sorted Lists, Trapping Rain Water, N-Queens, Word Ladder. 
